@@ -11,6 +11,7 @@ A Renaissance-at-night React portfolio combining machine learning, useful softwa
 
 ## Run
 Use Node.js 22.13+ and pnpm. Install with `pnpm install`, develop with `pnpm dev`, check types with `pnpm exec tsc --noEmit`, and build with `pnpm build`.
+<a href="https://portfolioyupitsmegd7.vercel.app/"><br>Deployed Link</br></a>
 
 ## Editing
 Portfolio content and project records are in `app/page.tsx`; the theme is in `app/globals.css`. The main artwork is `public/images/nocturne.webp`. Metadata is in `app/layout.tsx`.
